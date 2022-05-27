@@ -2,5 +2,5 @@
 
 # INTENGRANTES 
 
-# Daniela Hernandez
+# Daniela Fernandez
 # Jose Diaz
